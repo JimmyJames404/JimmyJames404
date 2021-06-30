@@ -1,6 +1,6 @@
 ### Hi!, I’m Jimmy James, Computer Science Engineer and Software Developer at Talentum Space 👋
 
-I’m interested in 👀
+My le
 
 📖 Never stop learning because life never stops teaching 📖
 
