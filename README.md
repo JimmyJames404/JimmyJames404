@@ -1,5 +1,5 @@
 ### Hi!, I’m Jimmy James, Computer Science Engineer and Software Developer at Talentum Space 👋
-<img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/>
+<code><img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/></code>
 
 I love learning new things thats why my slogan is
 
@@ -7,7 +7,6 @@ I love learning new things thats why my slogan is
 
 👩🏻‍💻 As developer i have worked with (and more):
  <code>
- <img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/>
  <img width="5%" src="https://img.icons8.com/color/48/000000/python--v1.png"></code> <code><img width="5%"
  <img width="5%" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"></code> <code><img width="5%"
  <img width="5%" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code> <code><img width="5%"
