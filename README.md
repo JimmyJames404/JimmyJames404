@@ -6,6 +6,7 @@ I love learning new things thats why my slogan is
 📖 Never stop learning because life never stops teaching 📖
 
 👩🏻‍💻 As developer i have worked with (and more):
+
  <code>
  <img width="5%" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
  <img width="5%" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"></code> 
