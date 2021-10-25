@@ -1,4 +1,5 @@
 ### Hi!, I’m Jimmy James, Computer Science Engineer and Software Developer at Talentum Space 👋
+
 <code><img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/></code>
 
 I love learning new things thats why my slogan is
@@ -21,6 +22,8 @@ I love learning new things thats why my slogan is
  
 <code><a href="https://www.linkedin.com/in/jimmyjameslm/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 <code><a href="https://www.youtube.com/jimmyjameslm"><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></a></code>
+<code><a href="https://www.youtube.com/jimmyjameslm"><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></a></code>
+<code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyJames404&layout=compact&theme=gotham)](https://github.com/JimmyJames404/github-readme-stats)
 <!---
