@@ -26,7 +26,7 @@ I love learning new things thats why my slogan is
 <code><a href="https://www.linkedin.com/in/jimmyjameslm/"><img width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 <code><a href = "mailto:jimmyjameslopez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
-<code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img width="10%" src="https://img.shields.io/badge/StackOverFlow-FF0000?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a></code>
+<code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img width="30%" src="https://img.shields.io/badge/StackOverFlow-FF0000?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a></code>
  
 
 
