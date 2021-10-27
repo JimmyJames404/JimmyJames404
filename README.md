@@ -20,14 +20,15 @@ I love learning new things thats why my slogan is
  
  📫 How to reach me ...
  
-<code><a href="https://www.linkedin.com/in/jimmyjameslm/"><img width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
  
-<a href="https://www.youtube.com/jimmyjameslm"><img width="10%" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
- 
-<a href="https://stackoverflow.com/users/14452043/jimmy-j"><img width="10%" src="https://img.shields.io/badge/StackOverFlow-FF0000?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a>
- 
-<a href = "mailto:jimmyjameslopez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<code><a href="https://www.youtube.com/jimmyjameslm"><img width="10%" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>
+<code><a href="https://www.linkedin.com/in/jimmyjameslm/"><img width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+<code><a href = "mailto:jimmyjameslopez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
+<code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img width="10%" src="https://img.shields.io/badge/StackOverFlow-FF0000?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a></code>
+ 
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyJames404&layout=compact&theme=gotham)](https://github.com/JimmyJames404/github-readme-stats)
 <!---
