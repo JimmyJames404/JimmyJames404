@@ -1,8 +1,7 @@
 ### Hi!, I’m Jimmy James, Computer Science Engineer and Software Developer at Talentum Space 👋
-
 <code><img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/></code>
 
-I love learning new things thats why my slogan is
+I ❤️  learning new things thats why my slogan is
 
 📖 Never stop learning because life never stops teaching 📖
 
