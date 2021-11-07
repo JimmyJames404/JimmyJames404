@@ -1,17 +1,20 @@
 <h2> Hi, I'm Jimmy James! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/>
+
 <p><em>Computer Systems Enginner at <a href="https://www.aliatuniversidades.com.mx/uvg/">UVG - Valle del Grijalva University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>Software developer at <a href="https://talentum.space/">Talentum Space</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
-<img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I ❤️  learning new things thats why my slogan is
-📖 Never stop learning because life never stops teaching 📖
-👩🏻‍💻 As developer i have worked with (and more):
+- I ❤️  learning new things thats why my slogan is
+- 📖 Never stop learning because life never stops teaching 📖
+- 👩🏻‍💻 As developer i have worked with (and more):
+ 
  
  <code> <img width="5%" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
  <code><img width="5%" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"></code> 
@@ -40,7 +43,7 @@ I ❤️  learning new things thats why my slogan is
  
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
 <!---
