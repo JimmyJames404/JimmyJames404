@@ -24,9 +24,10 @@ I ❤️  learning new things thats why my slogan is
  
 <code><a href="https://www.youtube.com/jimmyjameslm"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>
 <code><a href="https://www.linkedin.com/in/jimmyjameslm/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
-<code><a href = "mailto:jimmyjameslopez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<code><a href = "mailto:jimmyjameslopez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%CC352A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
-<code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img src="https://img.shields.io/badge/StackOverFlow-FF0000?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a></code>
+<code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img src="https://img.shields.io/badge/StackOverFlow-F48024?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a></code>
+<code><a href="https://codepen.io/jimmyjames404"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white"></a></code>
  
 
 
