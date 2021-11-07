@@ -24,26 +24,18 @@
  <code><img width="5%" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code> 
 
  
- ## I'm @JimmyJames in internet
- 
- 📫 How to reach me ...
- 
-
- 
-<code><a href="https://www.youtube.com/jimmyjameslm"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>
+ ##  📫 How to reach me ...
 <code><a href="https://www.linkedin.com/in/jimmyjameslm/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+<code><a href="https://www.youtube.com/jimmyjameslm"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>
 <code><a href = "mailto:jimmyjameslopez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC352A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
 <code><a href="https://stackoverflow.com/users/14452043/jimmy-j"><img src="https://img.shields.io/badge/StackOverFlow-F48024?style=for-the-badge&logo=StackOverFlow&logoColor=white"></a></code>
 <code><a href="https://codepen.io/jimmyjames404"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white"></a></code>
  
-
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyJames404&layout=compact&theme=gotham)](https://github.com/JimmyJames404/github-readme-stats)
  
-
-
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
 <!---
