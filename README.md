@@ -1,7 +1,11 @@
-### Hi!, I’m Jimmy James, Computer Science Engineer and Software Developer at Talentum Space 👋
+<h2> Hi, I'm Jimmy James! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Computer Systems Enginner at <a href="https://www.aliatuniversidades.com.mx/uvg/">UVG - Valle del Grijalva University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ </br>Software developer at <a href="https://talentum.space/">Talentum Space</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<code><img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/></code>
 
+<img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/>
 I ❤️  learning new things thats why my slogan is
 
 📖 Never stop learning because life never stops teaching 📖
@@ -32,6 +36,12 @@ I ❤️  learning new things thats why my slogan is
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyJames404&layout=compact&theme=gotham)](https://github.com/JimmyJames404/github-readme-stats)
+ 
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 <!---
 JimmyJames404/JimmyJames404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
