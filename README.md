@@ -6,10 +6,9 @@
 
 
 <img align="right" alt="GIF" src="https://octodex.github.com/images/jetpacktocat.png" width="320" height="320"/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 I ❤️  learning new things thats why my slogan is
-
 📖 Never stop learning because life never stops teaching 📖
-
 👩🏻‍💻 As developer i have worked with (and more):
  
  <code> <img width="5%" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
