@@ -16,13 +16,12 @@
 - 👩🏻‍💻 As developer I have worked with (and more):
  
  
- <code> <img width="5%" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
- <code><img width="5%" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"></code> 
- <code><img width="5%" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
- <code><img width="5%" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
- <code><img width="5%" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"></code> 
- <code><img width="5%" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code> 
- <code><img width="5%" src="https://img.icons8.com/fluency/48/000000/visual-basic.png"></code> 
+ <img width="5%" src="https://img.icons8.com/color/48/000000/python--v1.png"><img width="5%" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png">
+ <img width="5%" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+ <img width="5%" src="https://img.icons8.com/color/48/000000/c-programming.png">
+ <img width="5%" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
+ <img width="5%" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+ <img width="5%" src="https://img.icons8.com/fluency/48/000000/visual-basic.png">
 
  
  ##  📫 How to reach me ...
